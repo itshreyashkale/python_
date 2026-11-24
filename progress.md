@@ -2,13 +2,18 @@
 
 ## Foundation Concepts Covered
 
-- Data structures, algorithms, and how they work together
-- Understanding inputs, expected outputs, constraints, and edge cases
+- [Data Structures and Algorithms](00-foundation/01_data_structures_and_algorithms.md)
+- [Understanding and Solving Problems](00-foundation/02_problem_solving.md)
+- [Brute Force and Optimization](00-foundation/03_brute_force_and_optimization.md)
+- [Time Complexity and Big O](00-foundation/04_time_complexity.md)
+
+### Concepts Included
+
+- Identifying inputs, expected outputs, constraints, and edge cases
 - Breaking problem statements into clear solution steps
 - Brute-force approaches and systematic candidate checking
 - Optimization through reusable information and hash-based lookup
 - Time-space trade-offs
-- Time complexity and Big O notation
 - Constant, logarithmic, linear, linearithmic, quadratic, cubic, exponential, and factorial growth
 - Best-case, average-case, and worst-case analysis
 - Analyzing sequential loops, nested loops, changing loop bounds, and multiple input sizes
