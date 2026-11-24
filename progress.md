@@ -1,14 +1,22 @@
 # Progress
 
-## Concepts Covered
-- Data structures and algorithms
-- Identifying problem input, expected output, and conditions
-- Brute-force approach: checking candidate pairs
-- Using indexes to access list elements
-- Avoiding duplicate pairs with an inner-loop start at i + 1
-- Stopping early when a valid pair is found
-- Complement lookup with a set
-- Checking previously seen values before inserting the current value
+## Foundation Concepts Covered
+
+- Data structures, algorithms, and how they work together
+- Understanding inputs, expected outputs, constraints, and edge cases
+- Breaking problem statements into clear solution steps
+- Brute-force approaches and systematic candidate checking
+- Optimization through reusable information and hash-based lookup
+- Time-space trade-offs
+- Time complexity and Big O notation
+- Constant, logarithmic, linear, linearithmic, quadratic, cubic, exponential, and factorial growth
+- Best-case, average-case, and worst-case analysis
+- Analyzing sequential loops, nested loops, changing loop bounds, and multiple input sizes
+- Simplifying expressions by keeping the dominant growth term
+
+## Next Foundation Topic
+
+- Space complexity and auxiliary space
 
 ## Solved Problems
 
